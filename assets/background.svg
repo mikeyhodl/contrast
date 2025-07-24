@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+<svg transform="rotate(180)" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
 <path d="m-0.5-0.5h21c-6.6754 6.6746-13.675 13.008-21 19v-19z" fill="#bd3133"/>
 <path d="m20.5-0.5h106c14.169 47.006 28.836 93.84 44 140.5-0.594 0.464-1.261 0.631-2 0.5-56.425-24.377-112.76-49.044-169-74v-48c7.3246-5.9921 14.325-12.325 21-19z" fill="#ca4a41"/>
 <path d="m126.5-0.5h55c15.757 17.093 32.423 33.093 50 48v1c-0.667 0-1 0.3333-1 1-18.637 28.826-37.137 57.826-55.5 87-1.049 2.118-2.549 3.784-4.5 5-0.992 0.172-1.658-0.162-2-1 0.739 0.131 1.406-0.036 2-0.5-15.164-46.66-29.831-93.494-44-140.5z" fill="#d05647"/>
